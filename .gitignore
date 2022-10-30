@@ -1,0 +1,8 @@
+server/config.env
+server/subete.db
+
+server/__pycache__/
+client_student/__pycache__/
+client_teacher/__pycache__/
+
+.vscode/
